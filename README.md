@@ -1,6 +1,6 @@
 # Netflix Login - Clone
 Clone login Netflix feito com HTML e CSS! 📽️🔥<br>
-Link: https://kaiovbamorim.github.io/Netflix-Clone/
+Link: https://kaiovbamorim.github.io/Netflix-Login/
 
 <img src="https://user-images.githubusercontent.com/108599877/177401905-20d9b5da-abd7-4412-8d2d-6325e141f0f2.png">
 Responsivo:<br>
