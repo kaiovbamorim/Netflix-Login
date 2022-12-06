@@ -319,10 +319,6 @@ select {
     box-shadow: none;
     border: 0;
 }
-select::after {
-    content: "1";
-    color: red;
-}
 
 select {
     border: #272626;
